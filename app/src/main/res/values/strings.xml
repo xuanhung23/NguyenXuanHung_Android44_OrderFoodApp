@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OrderFood</string>
+    -----main----------
+    <string name="user_name">User Name</string>
+    <string name="pass_word">Pass Word</string>
+    <string name="button_login">Log In</string>
+    -----foodlist-----------
+    <string name="food_oder">Food Order</string>
+    <string name="total_price">Total Price</string>
+    <string name="money">0$</string>
+    <string name="button_name">Order</string>
+</resources>
